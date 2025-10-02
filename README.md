@@ -1,15 +1,15 @@
 <div align="center">
-  <img style="border-radius: 10%" src="images/background.jpg" />
+  <img border-radius="20%" src="images/background.jpg" />
 </div>
 
 <div align="center">
-  <img style="border-radius: 10%" src="images/q.png" />
+  <img border-radius="20%" src="images/q.png" />
   <img width="20" />
-  <img style="border-radius: 10%" src="images/w.png" />
+  <img border-radius="20%" src="images/w.png" />
   <img width="20" />
-  <img style="border-radius: 10%" src="images/e.png" />
+  <img border-radius="20%" src="images/e.png" />
   <img width="20" />
-  <img style="border-radius: 10%" src="images/r.png" />
+  <img border-radius="20%" src="images/r.png" />
 </div>
 
 <h1 align="center">iskanye | fullstack dev</h1>
@@ -17,35 +17,35 @@
 <p align="center">honor is in the heart, not the name.</p>
 
 <div align="center">
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </div>
 
 <div align="center">
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=cs" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=go" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </div>
 
 <div align="center">
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=unity" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=godot" />
+  <img src="https://skillicons.dev/icons?i=godot" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git" />
   <img width="20" />
-  <img style="width: 64px" src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </div>
