@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+  <img style="border-radius: 10%" src="images/background.jpg" />
+</div>
 
-<!--
-**iskanye/iskanye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img style="border-radius: 10%" src="images/q.png" />
+  <img width="20" />
+  <img style="border-radius: 10%" src="images/w.png" />
+  <img width="20" />
+  <img style="border-radius: 10%" src="images/e.png" />
+  <img width="20" />
+  <img style="border-radius: 10%" src="images/r.png" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">iskanye | fullstack dev</h1>
+<p align="center">one to cut, one to seal</p>
+<p align="center">honor is in the heart, not the name.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=html" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=css" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=js" />
+</div>
+
+<div align="center">
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=cs" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=cpp" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=go" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=python" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=java" />
+</div>
+
+<div align="center">
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=unity" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=godot" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=linux" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=git" />
+  <img width="20" />
+  <img style="width: 64px" src="https://skillicons.dev/icons?i=docker" />
+</div>
