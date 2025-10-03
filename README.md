@@ -17,35 +17,35 @@
 <p align="center">honor is in the heart, not the name.</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=godot" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
 </div>
