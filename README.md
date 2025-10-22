@@ -43,7 +43,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="10" />
