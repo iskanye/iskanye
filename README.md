@@ -6,7 +6,7 @@
 <p align="center">one to cut, one to seal<br>honor is in the heart, not the name.</p>
 <p align="center">RTU MIREA student, Golang and .NET adept</p>
 
-<h3 align="center">Techonological stack</p>
+<h3 align="center">Techonological stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
