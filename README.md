@@ -26,10 +26,27 @@
   </a>
 </p>
 
-## Selected projects
+<h2>Selected projects</h2>
 
-- [Utilities Payment](https://github.com/iskanye/utilities-payment): simulation of utilities payment service using Golang with microservices architecture
-- [Terminal Emulator](https://github.com/iskanye/terminal-emulator): Unix terminal emulator with GUI written on Golang using [GioUI](https://gioui.org/)
-- [VKRuM Project](https://github.com/iskanye/vkrum-project): Game for VKRuM 2025 hackaton
-- [Bob`s Return+](https://github.com/iskanye/bobs-return-plus): Canceled game based on animated Internet series
-- [Fractal Viewer](https://github.com/iskanye/fractal-viewer): simple program for rendering Mandelbrot and Julia set fractals
+<ul>
+  <li>
+    <a href="https://github.com/iskanye/utilities-payment">Utilities Payment</a>:
+    simulation of utilities payment service using Golang with microservices architecture
+  </li>
+  <li>
+    <a href="https://github.com/iskanye/terminal-emulator">Terminal Emulator</a>:
+    Unix terminal emulator with GUI written on Golang using <a href="https://gioui.org/">GioUI</a>
+  </li>
+  <li>
+    <a href="https://github.com/iskanye/vkrum-project">VKRuM Project</a>:
+    Game for VKRuM 2025 hackaton
+  </li>
+  <li>
+    <a href="https://github.com/iskanye/bobs-return-plus">Bob`s Return+</a>:
+    Canceled game based on animated Internet series
+  </li>
+  <li>
+    <a href="https://github.com/iskanye/fractal-viewer">Fractal Viewer</a>:
+    simple program for rendering Mandelbrot and Julia set fractals
+  </li>
+</ul>
