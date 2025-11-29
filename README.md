@@ -5,6 +5,7 @@
 <h1 align="center">iskanye | fullstack dev</h1>
 <p align="center">one to cut, one to seal<br>honor is in the heart, not the name.</p>
 <p align="center">RTU MIREA student, Golang and .NET adept</p>
+<h6 align="center">former gamedev</h6>
 
 <h3 align="center">Techonological stack</h3>
 
