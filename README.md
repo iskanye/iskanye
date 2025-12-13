@@ -29,7 +29,11 @@
 
 <h2>Selected projects</h2>
 
-<ul>
+<ul>  
+  <li>
+    <a href="https://github.com/iskanye/mirea-queue">MIREA Queue</a>:
+    telegram bot for managing queue for practical assignments
+  </li>
   <li>
     <a href="https://github.com/iskanye/utilities-payment">Utilities Payment</a>:
     simulation of utilities payment service using Golang with microservices architecture
