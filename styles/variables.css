@@ -6,6 +6,7 @@
   --secondary-color: #7a8291;
   --bg-color: #000;
   --shadow-color: #8b97ad;
+  --project-bg-color: #404755;
 
   --full-screen-height: 100vh;
 
@@ -15,4 +16,6 @@
   --main-gap: 20px;
   
   --section-gap: 10px;
+
+  --project-padding: 10px;
 }
