@@ -5,8 +5,14 @@
   --main-color: #bcc5d4;
   --secondary-color: #7a8291;
   --bg-color: #000;
+  --shadow-color: #8b97ad;
 
-  --header-height: 100vh;
+  --full-screen-height: 100vh;
+  
+  --header-gap: 10px;
 
-  --gap: 10px;
+  --main-width: clamp(400px, 60%, 700px);
+  --main-gap: 20px;
+  
+  --section-gap: 10px;
 }
