@@ -1,10 +1,12 @@
 .page {
-  color: var(--main-color);
-  background-color: var(--bg-color);
-  font-family: var(--font-primary);
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: var(--main-color);
+  font-family: var(--font-primary);
+  background-color: var(--bg-color);
+  width: var(--main-width);
+  margin: auto;
 }
 
 /* Заголовок */
@@ -13,9 +15,10 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   gap: var(--header-gap);
   height: var(--full-screen-height);
-  text-align: center;
+  width: 100%;
 }
 
 .header__img {
@@ -34,6 +37,7 @@
 }
 
 .header__text {
+  text-align: center;
   font-size: 18px;
 }
 
@@ -45,7 +49,6 @@
 /* Основная секция */
 
 .main {
-  width: var(--main-width);
   gap: var(--main-gap);
 }
 
@@ -64,4 +67,35 @@
 
 .section__header {
   font-family: var(--font-accent);
+}
+
+/* Иконки */
+
+.icons-link {
+  display: flex;
+  gap: var(--section-gap);
+}
+
+.icon {
+  transition: scale 1s ease;
+}
+
+.icon:hover {
+  scale: 1.25;
+}
+
+/* Стики оверлей */
+
+.overlay {
+  position: sticky;
+  top: 0;
+}
+
+.overlay::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
 }
