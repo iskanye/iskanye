@@ -1,0 +1,12 @@
+:root {
+  --font-primary: "Inter-Variable";
+  --font-accent: "PressStart2P";
+
+  --main-color: #bcc5d4;
+  --secondary-color: #7a8291;
+  --bg-color: #000;
+
+  --header-height: 100vh;
+
+  --gap: 10px;
+}

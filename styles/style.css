@@ -1,4 +1,41 @@
 .page {
-  min-inline-size: 320px;
-  min-block-size: 100dvb;
+  color: var(--main-color);
+  background-color: var(--bg-color);
+}
+
+.container {
+  width: 100%;
+  margin-inline: auto;
+}
+
+/* Заголовок */
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap);
+  height: var(--header-height);
+  text-align: center;
+}
+
+.header__img {
+  border-radius: 50%;
+  box-shadow: 0 0 100px var(--secondary-color);
+  animation: glow 5s alternate infinite;
+}
+
+.header__title {
+  font-family: var(--font-accent);
+  font-size: 18px;
+}
+
+.header__text {
+  font-family: var(--font-primary);
+  font-size: 18px;
+}
+
+.undertoned {
+  color: var(--secondary-color);
+  font-size: 12px;
 }
