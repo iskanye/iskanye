@@ -1,13 +1,10 @@
 .page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin: auto;
+  width: var(--main-width);
   color: var(--main-color);
   font-family: var(--font-primary);
-  background-color: var(--bg-color);
-  width: var(--main-width);
-  margin: auto;
   text-align: center;
+  background-color: var(--bg-color);
 }
 
 .fullscreen {
@@ -27,7 +24,7 @@
 
 .header__img {
   border-radius: 50%;
-  box-shadow: 0 0 50px var(--main-color);
+  box-shadow: 0 0 40px var(--main-color);
   transition: box-shadow 0.5s ease-in-out;
 }
 
@@ -37,22 +34,22 @@
 
 .title {
   font-family: var(--font-accent);
-  font-size: 18px;
+  font-size: var(--font-size-h1);
 }
 
 .header__text {
-  font-size: 18px;
+  font-size: var(--font-size-p);
 }
 
 .undertoned {
   color: var(--secondary-color);
-  font-size: 12px;
+  font-size: var(--font-size-undertoned);
 }
 
 /* Основная секция */
 
 .main {
-  gap: var(--main-gap);
+  width: 100%;
 }
 
 .section {
@@ -61,14 +58,12 @@
   justify-content: center;
   align-items: center;
   gap: var(--section-gap);
-}
-
-.section:not(:last-child) {
-  margin-bottom: var(--main-gap);
+  width: 100%;
 }
 
 .section__header {
   font-family: var(--font-accent);
+  font-size: var(--font-size-h2);
 }
 
 /* Иконки */
@@ -79,6 +74,7 @@
 }
 
 .icon {
+    width: var(--icon-size);
   transition: scale 1s ease;
 }
 
@@ -97,7 +93,7 @@
   content: "";
   position: absolute;
   z-index: -1;
-  width: var(--main-width);
+  width: 100%;
   height: 100%;
   background-color: var(--bg-color);
 }
@@ -122,13 +118,17 @@
 }
 
 .project-link {
-  font-size: 24px;
   font-weight: 800;
+  font-size: var(--font-size-link);
   transition: text-shadow 0.5s ease-in-out;
 }
 
 .project-link:hover {
   text-shadow: 0 0 10px var(--secondary-color);
+}
+
+.project-description {
+  font-size: var(--font-size-p);
 }
 
 /* Подвал */
@@ -146,7 +146,7 @@
 }
 
 .footer .undertoned:hover {
-  font-size: 18px;
+  font-size: var(--font-size-undertoned-hover);
 }
 
 /* Контакты */
