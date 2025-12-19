@@ -6,7 +6,7 @@
   --secondary-color: #7a8291;
   --bg-color: #000;
   --shadow-color: #8b97ad;
-  --project-bg-color: #404755;
+  --project-bg-color: #2d323b;
 
   --full-screen-height: 100vh;
 
@@ -18,4 +18,6 @@
   --section-gap: 10px;
 
   --project-padding: 10px;
+
+  --contact-icon-size: 64px;
 }

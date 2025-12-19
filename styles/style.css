@@ -10,6 +10,10 @@
   text-align: center;
 }
 
+.fullscreen {
+  height: var(--full-screen-height);
+}
+
 /* Заголовок */
 
 .header {
@@ -18,7 +22,6 @@
   justify-content: center;
   align-items: center;
   gap: var(--header-gap);
-  height: var(--full-screen-height);
   width: 100%;
 }
 
@@ -32,7 +35,7 @@
   box-shadow: none;
 }
 
-.header__title {
+.title {
   font-family: var(--font-accent);
   font-size: 18px;
 }
@@ -58,7 +61,6 @@
   justify-content: center;
   align-items: center;
   gap: var(--section-gap);
-  height: var(--full-screen-height);
 }
 
 .section:not(:last-child) {
@@ -95,7 +97,7 @@
   content: "";
   position: absolute;
   z-index: -1;
-  width: 100%;
+  width: 100vmin;
   height: 100%;
   background-color: var(--bg-color);
 }
@@ -109,10 +111,10 @@
 }
 
 .project {
-  border: 2px solid var(--main-color);
+  border: 2px solid var(--secondary-color);
   padding: var(--project-padding);
   background-color: var(--project-bg-color);
-  transition: scale 1s ease-in-out;
+  transition: scale 0.25s ease;
 }
 
 .project:hover {
@@ -127,4 +129,33 @@
 
 .project-link:hover {
   text-shadow: 0 0 10px var(--secondary-color);
+}
+
+/* Подвал */
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--main-gap);
+}
+
+.footer .undertoned {
+  transition: font-size 1s ease-in-out;
+}
+
+.footer .undertoned:hover {
+  font-size: 18px;
+}
+
+/* Контакты */
+
+.contact-link img {
+  height: var(--contact-icon-size);
+  transition: filter 1s ease;
+}
+
+.contact-link:hover img {
+  filter: drop-shadow(0 0 10px var(--main-color));
 }
