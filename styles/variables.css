@@ -1,0 +1,46 @@
+:root {
+  --font-primary: "Inter-Variable";
+  --font-accent: "PressStart2P";
+
+  --font-size-h1: 18px;
+  --font-size-h2: 24px;
+  --font-size-link: 24px;
+  --font-size-p: 18px;
+  --font-size-undertoned: 12px;
+  --font-size-undertoned-hover: 18px;
+
+  --icon-size: 48px;
+  --contact-icon-size: 64px;
+
+  --main-color: #bcc5d4;
+  --secondary-color: #7a8291;
+  --bg-color: #000;
+  --shadow-color: #8b97ad;
+  --project-bg-color: #2d323b;
+
+  --full-screen-height: 100vh;
+
+  --header-gap: 10px;
+
+  --main-width: clamp(400px, 60vw, 700px);
+  --main-gap: 20px;
+
+  --section-gap: 10px;
+
+  --project-padding: 10px;
+}
+
+@media (width <= 400px) {
+  :root {
+    --font-size-h1: 14px;
+  --font-size-h2: 18px;
+    --font-size-link: 20px;
+    --font-size-p: 12px;
+
+    --project-padding: 5px;
+    
+  --icon-size: 32px;
+
+    --main-width: 90%;
+  }
+}
