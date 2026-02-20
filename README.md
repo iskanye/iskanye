@@ -32,7 +32,7 @@
 <ul>  
   <li>
     <a href="https://github.com/iskanye/mirea-queue">MIREA Queue</a>:
-    telegram bot for managing queue for practical assignments
+    telegram bot for managing queue for practice assignments
   </li>
   <li>
     <a href="https://github.com/iskanye/utilities-payment">Utilities Payment</a>:
